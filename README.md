@@ -62,6 +62,3 @@ This repo includes JavaScript solutions to popular **LeetCode** problems, organi
 # Clone the repository
 git clone https://github.com/your-username/dsa-javascript.git
 cd dsa-javascript
-
-# (Optional) Install dependencies for testing
-npm install
