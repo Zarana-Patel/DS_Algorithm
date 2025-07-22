@@ -44,8 +44,6 @@ This repo includes JavaScript solutions to popular **LeetCode** problems, organi
 
 > 📂 LeetCode solutions are stored in the `/leetcode/` directory, with filenames and comments referencing the original problem name and number.
 
-> 💡 **Tip:** Let me know if you want a script to auto-download LeetCode problems via the [LeetCode CLI](https://github.com/LeetCode-OpenSource/leetcode-cli), or a pre-filled folder structure with file naming conventions!
-
 ---
 
 ## 🛠️ Tech Stack
