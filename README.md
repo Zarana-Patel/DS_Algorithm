@@ -44,5 +44,3 @@ git clone https://github.com/your-username/dsa-javascript.git
 # Navigate into the directory
 cd dsa-javascript
 
-# (Optional) Install dependencies for testing
-npm install
